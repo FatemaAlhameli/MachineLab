@@ -26,7 +26,7 @@
 
 *  	https://en.wikipedia.org/wiki/Science_and_inventions_of_Leonardo_da_Vinci
  
-<b>The Smartphone:</b> The evolution of the smartphone has profoundly changed the way we communicate and interact with others. In the last decade or two, we went from wired telephones to small modern touch screen phones where we can not only hear the person, we are talking to but see them live at the same time.
+<b>The Smartphone:</b> The evolution of the smartphone has profoundly changed the way we communicate and interact with others. In the last decade or two, we went from wired telephones to small modern touch screen phones where we can not only hear the person, we are talking to but see them live at the same time. This shows how machine interactions can evolve and integrate. They are not simply subjected to one action. 
  
 *  	https://simpletexting.com/blog/where-have-we-come-since-the-first-smartphone/
  
