@@ -8,19 +8,19 @@
  
 ## Research Topics
  
-<b>Works of Al-Jazari in Mechanical Engineering:</b> Ismail al-Jazari or often referred to as the “father of robotics” was an Islamic Scholar who wrote, The book of knowledge of ingenious mechanical devices. Al-Jazari is known for his work in the automata field, which are self-operating machines. Some of his famous works include the Water Device and the Candle Clock.
+<b>Works of Al-Jazari in Mechanical Engineering:</b> Ismail al-Jazari or often referred to as the “father of robotics” was an Islamic Scholar who wrote, The book of knowledge of ingenious mechanical devices. Al-Jazari is known for his work in the automata field, which are self-operating machines. Some of his famous works include the Water Device and the Candle Clock. Al-Jazari’s work gives a historical perspective on the beginnings of creating machines.
  
 *  	https://www.baytalfann.com/post/the-father-of-robotics-al-jazari
  
-<b>Thomas Edison:</b> Thomas Edison was an American inventor and businessman. Edison was one of the most influential inventors in history as he greatly contributed to shaping the modern age of electricity. His inventions included the phonograph, a machine for reproducing sounds, the incandescent lamp, an electric light and power system, and lastly, he invented parts of motion-picture apparatus.
+<b>Thomas Edison:</b> Thomas Edison was an American inventor and businessman. Edison was one of the most influential inventors in history as he greatly contributed to shaping the modern age of electricity. His inventions included the phonograph, a machine for reproducing sounds, the incandescent lamp, an electric light and power system, and lastly, he invented parts of motion-picture apparatus. Similarly to Al-Jazari’s work, Edison’s inventions showcase how machines created in the past have greatly evolved in our current time. 
  
 *  	https://www.britannica.com/biography/Thomas-Edison
  
-<b>3D printing technology development:</b> 3D printing technology, also called additive manufacturing, is a machine which includes the process of using a digital file of a 3D object to print it into a 3D solid object. The lengthy printing process uses the mechanism of stacking layers of material and fuses them together to create the object.
+<b>3D printing technology development:</b> 3D printing technology, also called additive manufacturing, is a machine which includes the process of using a digital file of a 3D object to print it into a 3D solid object. The lengthy printing process uses the mechanism of stacking layers of material and fuses them together to create the object. This technology is greatly important to our current time as it cost effective and can help in prototyping and creating small scale machines. 
  
 *  	https://www.spiceworks.com/tech/devops/articles/what-is-3d-printing/
  
-<b>Leonardo da Vinci:</b> Leonardo da Vinci is known for his works as an artist, scientist, architect, engineer and inventor. Although he is most known for his work in art, he has significantly contributed to the fields of science and technology. In his practice, da Vinci conceptually invented the parachute, the helicopter, an armored fighting vehicle, the use of concentrated solar power, the car and a gun, a rudimentary theory of plate tectonics and the double hull.
+<b>Leonardo da Vinci:</b> Leonardo da Vinci is known for his works as an artist, scientist, architect, engineer and inventor. Although he is most known for his work in art, he has significantly contributed to the fields of science and technology. In his practice, da Vinci conceptually invented the parachute, the helicopter, an armored fighting vehicle, the use of concentrated solar power, the car and a gun, a rudimentary theory of plate tectonics and the double hull. Leonardo’s practice illustrates how different fields can collide in creating life changing inventions and discoveries. 
  
 *  	https://www.da-vinci-inventions.com/
 
