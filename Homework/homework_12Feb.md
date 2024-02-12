@@ -12,7 +12,30 @@ Prototyping helped us find out what and how we were going to build the final ver
  Controlling the motor was straightforward to do, we were able to get the motion we wanted.
 
 ```
-insert code
+#include <Servo.h>
+
+Servo servo;
+int servoPin = 10;
+int pos = 90;
+
+void setup() {
+  servo.attach(10);
+}
+
+void loop() {
+  servo.write(180);
+  for (pos=180; pos>=90; pos-=1) {
+    servo.write(pos);
+    delay(5);
+  }
+  delay(500);
+  servo.write(0);
+  for (pos=0; pos<=90; pos+=1) {
+    servo.write(pos);
+    delay(5);
+  }
+  delay(500);
+}
 ```
 
 
