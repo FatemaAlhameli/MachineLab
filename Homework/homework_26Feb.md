@@ -7,6 +7,10 @@ We created a rough sketch of the dimensions and space we will be working with fo
 
 ### Swinging Boat Motion 
 
+
+https://github.com/FatemaAlhameli/MachineLab/assets/98390877/25e93705-a34c-4f81-8592-4ab9bd5a8c7d
+
+
 <img src= "https://github.com/FatemaAlhameli/MachineLab/blob/main/Media/boat.png" width = "420" height = "530"> <img src= "https://github.com/FatemaAlhameli/MachineLab/blob/main/Media/mount.png" width = "420" height = "530">
 
 ### Neopixels 
@@ -14,6 +18,10 @@ We decided the neopixels will be placed on the wooden piece that is mounted on t
 For the code, we used the neopixel example in the Arduino library and adjusted the colors and blinking feature to the strip we had. 
 
 https://github.com/FatemaAlhameli/MachineLab/assets/98390877/8dd313c8-662e-4d75-ad43-641332ce95bc
+
+
+https://github.com/FatemaAlhameli/MachineLab/assets/98390877/77188dcc-9203-4946-bc5e-6ab3a949272f
+
 
 
 ### Waves 
