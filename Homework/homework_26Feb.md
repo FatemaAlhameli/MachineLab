@@ -24,7 +24,5 @@ https://github.com/FatemaAlhameli/MachineLab/assets/98390877/77188dcc-9203-4946-
 
 
 
-### Waves 
 
-<img src= "https://github.com/FatemaAlhameli/MachineLab/blob/main/Media/wave.png" width = "420" height = "500"> <img src= "https://github.com/FatemaAlhameli/MachineLab/blob/main/Media/track.png" width = "420" height = "500">
 
