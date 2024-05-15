@@ -434,7 +434,7 @@ void setup() {
 
   Serial.println(F("Initializing Servos..."));
   shellServo.Attach(shellServoPin);
-  // boatServo.Attach(boatServoPin);
+  boatServo.Attach(boatServoPin);
   wave1.Attach(wave1Pin);
   wave2.Attach(wave2Pin);
   wave3.Attach(wave3Pin);
@@ -470,7 +470,7 @@ void loop() {
     boatServo.Update();
     shellServo.Update();
     wave1.Update();
-    //wave2.Update();
+    wave2.Update();
     wave3.Update();
     pearl1.update();
     pearl2.update();
